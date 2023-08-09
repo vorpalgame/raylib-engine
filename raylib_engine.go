@@ -2,8 +2,8 @@ package raylibengine
 
 import (
 	rl "github.com/gen2brain/raylib-go/raylib"
-	"github.com/vorpalgame/vorpal/bus"
-	"github.com/vorpalgame/vorpal/lib"
+	"github.com/vorpalgame/core/bus"
+	"github.com/vorpalgame/core/lib"
 	"golang.org/x/mobile/event/key"
 	"golang.org/x/mobile/event/mouse"
 	"log"

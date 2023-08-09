@@ -1,6 +1,6 @@
 package raylibengine
 
-import "github.com/vorpalgame/vorpal/bus"
+import "github.com/vorpalgame/core/bus"
 
 // The peer raylibPeerController is to mediate any impedance mismatch between the tight single
 // threaded loop of the Raylib engine and the concurrent mechanisms of Golang.

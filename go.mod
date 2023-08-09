@@ -4,8 +4,7 @@ go 1.20
 
 require (
 	github.com/gen2brain/raylib-go/raylib v0.0.0-20230606094659-048c1b598cb2
-	github.com/vorpalgame/vorpal/bus v0.0.0-20230715213321-b5449f694329
-	github.com/vorpalgame/vorpal/lib v0.0.0-20230715213321-b5449f694329
+	github.com/vorpalgame/core v0.1.0
 	golang.org/x/mobile v0.0.0-20230531173138-3c911d8e3eda
 
 )
@@ -24,7 +23,7 @@ require (
 	github.com/spf13/viper v1.16.0 // indirect
 	github.com/subosito/gotenv v1.4.2 // indirect
 	golang.org/x/sys v0.8.0 // indirect
-	golang.org/x/text v0.9.0 // indirect
+	golang.org/x/text v0.12.0 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
